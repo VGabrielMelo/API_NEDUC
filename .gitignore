@@ -1,3 +1,4 @@
+# Arquivo para não incluir dependências de máquina ao arquivo #
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
